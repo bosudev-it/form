@@ -1,0 +1,46 @@
+body{
+	margin:0;
+	padding:0;
+}
+.Registration{
+    padding: 10px 25px;
+}
+.image{
+	background-image:url('bg.jpg');
+	background-repeat:no-repeat;
+	margin: 240px 355px;
+	border-radius: 5px;
+}
+input{
+	background:transparent;
+	color:#fff;
+	margin:10px 0;
+	width:295px;
+	padding: 4px;
+    border-radius: 4px;
+}
+label{
+	color:#fff;
+	cursor:pointer;
+	font-size:16px;
+	font-family:tahoma;
+}
+.log input{
+	cursor: pointer;
+    width: 114px;
+    margin-left: 95px;
+    padding: 8px;
+    border-radius: 5px;
+    background: #006266;
+}
+.log input:hover{
+	background:#303952;
+}
+p, a{
+	color:#fff;
+}
+a:hover{
+	color:#badc58;
+	font-weight:bold;
+	text-decoration:none;
+}
